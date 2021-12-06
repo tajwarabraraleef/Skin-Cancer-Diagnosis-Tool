@@ -22,7 +22,7 @@ A toolkit for analyzing RGB skin images and diagnosing the presence of cancer. A
 
 * Download the pretrained network weights from [here](https://drive.google.com/file/d/1d-uXMO1GISsSch4MHP0MSWwo3LBtmJe2/view?usp=sharing). Or train your own network by modifying `classification_net.m` and save the weights as `Classification_net.mat`. I suggest training your own network as there are much more publicly available data for skin cancer now. 
 
-* Modify the credentials of the email address you would like to use to sent emails on `email_settings.m`
+* Modify the credentials of the email address you would like to use to send emails on `email_settings.m`
 
 * Run `main.m` to open the homepage of the UI. 
 
